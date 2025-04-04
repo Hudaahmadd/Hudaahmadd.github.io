@@ -14,7 +14,7 @@
 
 - name: Huda Ahmad
   is_pi: False
-  is_current: False
+  is_current: True
   position: PhD Student
   bio: >
     PhD student at the Banzhaf Lab, working on chemical genomics screening.

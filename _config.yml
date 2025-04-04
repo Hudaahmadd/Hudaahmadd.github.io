@@ -1,17 +1,19 @@
 # Site settings
-title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
+title: High-throughput chemical genomics in the Banzhaf Laboratory at Newcastle University
 lab_name: Banzhaf Laboratory
 author: >
-  Bruno Grande, Ryan Morin and the Morin laboratory
-institution: SFU
-email: rdmorin@sfu.ca
+  Huda Ahmad, Manuel Banzhaf, and the Banzhaf Lab
+institution: Newcastle University
+email: manuel.banzhaf@ncl.ac.uk
 description: >
   The Morin Laboratory performs cutting-edge lymphoma research using
   a combination of dry lab and wet lab experiments.
+  The Banzhaf Laboratory develops high-throughput chemical genomics approaches 
+  to study pathogen phenotypes, gene function, and the bacterial cell envelope.
 baseurl: ""
-url: "https://morinlab.github.io"
-twitter_username: morinryan
-github_username:  morinlab
+url: "https://hudaahmadd.github.io"
+twitter_username: BanzhafLab
+github_username:  hudaahmadd
 images_dir: "/images/"
 
 # Build settings

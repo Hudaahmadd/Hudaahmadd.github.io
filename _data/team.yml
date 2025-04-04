@@ -1,29 +1,14 @@
-- name: Dr. Ryan D. Morin
+- name: Dr. Manuel Banzhaf
   is_pi: True
   is_current: True
   position: 
-  orcid:  https://orcid.org/0000-0003-2932-7800
-  scholar: https://scholar.google.ca/citations?user=IDau0mkAAAAJ&hl=en
-  researchgate: https://www.researchgate.net/profile/Ryan_Morin
+  orcid:  https://orcid.org/0000-0002-4682-1037
+  scholar: https://scholar.google.com/citations?user=1pgxXjgAAAAJ&hl=en&oi=ao
+  researchgate: https://www.researchgate.net/profile/Manuel-Banzhaf
   github: https://github.com/hudaahmadd
   twitter: https://x.com/BanzhafLab
   bio: >
-    I am in the department of <a href="http://www.sfu.ca/mbb.html">Molecular Biology and Biochemistry</a> at
-    <a href="http://www.sfu.ca">Simon Fraser University</a> and hold a Scientist appointment in the <a href="http://www.bcgsc.ca">BC Cancer Genome Sciences Centre</a>.
-    I completed my MSc and PhD in bioinformatics at UBC in the laboratory of
-    Marco Marra.
-    My early research involved the use of massively parallel
-    sequencing to identify driver mutations in leukemias and lymphomas
-    including histone modifiers such as <a href="https://www.ncbi.nlm.nih.gov/pubmed/20081860">EZH2</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/21796119">KMT2D</a>.
-    My current research focus involves using genome and transcriptome
-    sequencing to discover novel drivers in B-cell lymphomas and to
-    determine mechanisms that underlie tumour progression and treatment
-    resistance.
-    I have a general interest in developing methods to identify non-coding
-    mutations with regulatory potential from genome-wide data sets and
-    error-corrected sequencing strategies and algorithms to identify mutations and copy number from circulating
-    tumour DNA (<a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">ctDNA</a>). Dr. Morin is a Scholar of the <a href="https://www.msfhr.org/">Michael Smith Foundation for Health Research</a>.
-
+I am a Senior Lecturer in Systems Microbiology at the <a href="https://www.ncl.ac.uk/medical-sciences/research/institutes/biosciences/">Biosciences Institute, Newcastle University</a>, and a UKRI Future Leader Fellow. I completed my PhD at <a href="https://www.ncl.ac.uk/">Newcastle University</a> in the laboratory of Waldemar Vollmer, where I studied bacterial cell wall biology. I subsequently conducted postdoctoral research at <a href="https://kirchhausen.hms.harvard.edu/">Harvard University</a> as an EMBO Fellow with Tomas Kirchhausen and later at the <a href="https://www.embl.org/">European Molecular Biology Laboratory (EMBL)</a> in Heidelberg with Nassos Typas. My early research focused on bacterial cell envelope biology, high-throughput genetic screens, and host-pathogen interactions. Between 2018 and 2022, I was a Birmingham Fellow at the <a href="https://www.birmingham.ac.uk/schools/biosciences/index.aspx">School of Biosciences, University of Birmingham</a>, and subsequently held a UKRI Future Leader Fellowship there. My current research combines high-throughput experimental approaches and computational methods to study phenotypic variability in pathogens, with a particular focus on the bacterial cell envelope and antimicrobial resistance mechanisms.
   photo: team/manu.jpeg
 
 

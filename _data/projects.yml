@@ -2,10 +2,7 @@
   description: >
     Bacterial chemical-genomics screens can quantify the impact of each gene on the fitness of the organism subjected to a large number of chemical/environmental perturbations. Chemical-genomics enables the discovery of gene function and facilitates the mapping of pathways, often leading to the identification of drug primary/secondary targets. My laboratory develops chemical genomics screens for important pathogens.
 
-  funding: Terry Fox Research Institute
-  collaborators: Christian Steidl, David Scott, Nathalie Johnson
-  assignees: Chris Rushton, Laura Hilton, Jeffrey Tang, Miguel Alcaide, Aixiang Jiang
-  photo: projects/dhitsig.png
+  photo: Picture 1.png
 
 - name: The role of the Fc Gamma receptor locus in resistance to R-CHOP
   description: >

@@ -1,25 +1,7 @@
-- name: Genetic and molecular mechanisms of treatment resistance in DLBCL
+- name: Chemical genetic screens
   description: >
-    Non-Hodgkin lymphomas (NHL) represent the sixth most commonly diagnosed
-    type of cancer in Canada with diffuse large B-cell lymphoma (DLBCL) being the most prevalent.
-    DLBCL patients exhibit variable responses to available therapies such
-    as R-CHOP. Some biomarkers beginning to enter clinical trials rely on
-    gene expression signatures to identify high-risk cases.
-    For example, DLBCL comprises two cell-of-origin (COO) subgroups with
-    activated B-cell (ABC) cases typically having worse prognosis than
-    germinal centre B-cell (GCB) cases.
-    Therapeutics that exploit molecular features unique to each subgroup
-    are being actively pursued but up-front identification of patients
-    unlikely to achieve a durable response remains a challenge.
-    Although existing methods can identify specific prognostic gene
-    expression features, these capture only some of the clinical
-    heterogeneity and require tumour RNA, which is not always available.
-    Using comprehensive genomic analyses and by integrating mutation and
-    expression data from over 2000 DLBCL tumours, we seek novel molecular
-    features that are associated with treatment resistance in DLBCL.
-    The ultimate goal of this work is to develop new predictive and
-    prognostic biomarkers and identify new therapeutic targets for
-    treatment-resistant DLBCLs.
+    Bacterial chemical-genomics screens can quantify the impact of each gene on the fitness of the organism subjected to a large number of chemical/environmental perturbations. Chemical-genomics enables the discovery of gene function and facilitates the mapping of pathways, often leading to the identification of drug primary/secondary targets. My laboratory develops chemical genomics screens for important pathogens.
+
   funding: Terry Fox Research Institute
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Laura Hilton, Jeffrey Tang, Miguel Alcaide, Aixiang Jiang

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GAMBL
+title: BLOG
 permalink: /pi/
 toggle: on
 rank: 6
